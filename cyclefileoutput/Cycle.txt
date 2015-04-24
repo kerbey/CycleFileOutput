@@ -1,0 +1,2 @@
+Inside the ToString method we have: the number of wheels are 
+2.0 and the weight is 6.0
